@@ -102,7 +102,7 @@ DailyDocket/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/RathodGayatri/DailyDocket-Eplanner.git
+git clone https://github.com/NikitaAdakmol/DailyDocket-Eplanner.git
 ```
 
 ### 2. Navigate to the Project Directory
@@ -196,7 +196,7 @@ Instead of using multiple applications for different activities, DailyDocket bri
 
 ## 👩‍💻 Developer
 
-**Gayatri Uday Rathod**
+**Nikita Nitin Adakmol**
 
 BE Computer Engineering Graduate
 Aspiring Software Engineer | Java Full Stack Developer
@@ -206,7 +206,7 @@ Aspiring Software Engineer | Java Full Stack Developer
 ## 📌 Repository
 
 GitHub Repository:
-https://github.com/RathodGayatri/DailyDocket-Eplanner
+https://github.com/NikitaAdakmol/DailyDocket-Eplanner
 
 ---
 
